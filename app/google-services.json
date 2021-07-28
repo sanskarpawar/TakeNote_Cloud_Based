@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "428241946552",
+    "firebase_url": "https://takenote-ecb01.firebaseio.com",
+    "project_id": "takenote-ecb01",
+    "storage_bucket": "takenote-ecb01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:428241946552:android:54a6155dc7bc1529f1b14d",
+        "android_client_info": {
+          "package_name": "example.androidgrid.simplenotesapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "428241946552-65h5aq1h4k039mbg4gcam3bam1egmn21.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "example.androidgrid.simplenotesapp",
+            "certificate_hash": "8ece974e972fd00a02cf062fa8ac0ddc5a9f4b2f"
+          }
+        },
+        {
+          "client_id": "428241946552-qibg3lqekf99hinjd90vq2k83at7frtb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCq--VMXk64Qxo6CqgV2mGVa2r6FvOX5JI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "428241946552-qibg3lqekf99hinjd90vq2k83at7frtb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
